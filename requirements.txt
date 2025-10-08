@@ -1,0 +1,17 @@
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pdfplumber>=0.10.0
+pytesseract
+python-multipart
+pandas
+sentence-transformers
+scikit-learn
+rapidfuzz
+python-dotenv
+google-generativeai>=0.4.0
+Pillow
+dateparser
+python-dateutil
+passlib[bcrypt]
+python-jose[cryptography]
+
